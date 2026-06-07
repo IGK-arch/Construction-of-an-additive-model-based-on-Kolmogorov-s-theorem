@@ -1,0 +1,1 @@
+# Construction-of-an-additive-model-based-on-Kolmogorov-s-theorem
